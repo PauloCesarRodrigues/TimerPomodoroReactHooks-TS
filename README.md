@@ -2,7 +2,7 @@
 
 
 
-Link para testar: 
+Link para testar: https://timer-pomodoro-react-hooks-ts.vercel.app/
 
 
 ## Como Rodar o Projeto
